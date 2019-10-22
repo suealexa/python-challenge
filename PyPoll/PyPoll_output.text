@@ -1,0 +1,6 @@
+Election Results
+---------------------------
+Total Votes:3521001
+(f'{k}: {100*round(v/total_num_votes,2)}% ({v})')
+----------------------------
+Winner:
